@@ -1,0 +1,7 @@
+# byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# exclude files that are too large for GitHub
+/data
